@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">كِلّو دلفري</string>
+    <string name="email_hint">رقم الهاتف</string>
+    <string name="password_hint">كلمة المرور (أكثر من 8 أحرف)</string>
+    <string name="password_hint2">كلمة المرور</string>
+    <string name="signin">تسجيل الدخول</string>
+    <string name="signup_link">ليس لديكم حساب ؟ سجل حسابك</string>
+    <string name="forgot_password">نسيت كلمة المرور</string>
+    <string name="signin_phone">إنشاء حساب</string>
+    <string name="PREF_JABER">PERE_JABER</string>
+    <string name="NO_INTERNET">أنت غير متصل بالشبكة</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="full_name">الاسم الكامل </string>
+    <string name="confirm_password">تأكيد كلمة المرور</string>
+    <string name="sign_up">إنشاء حساب</string>
+    <string name="signin_link">لديك حساب ؟ سجل دخولك </string>
+    <string name="reset_password">إعادة تعيين كلمة المرور</string>
+    <string name="remember_password">حفظ كلمة المرور الخاصة بك؟ تسجيل الدخول</string>
+</resources>

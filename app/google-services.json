@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "537824560819",
+    "firebase_url": "https://jaberdelivery.firebaseio.com",
+    "project_id": "jaberdelivery",
+    "storage_bucket": "jaberdelivery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537824560819:android:74e7c628e3260eb8",
+        "android_client_info": {
+          "package_name": "jaber.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537824560819-qet9anof7podelbsp22ekvrc5c0m790m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jaber.delivery",
+            "certificate_hash": "a28c05a7f47cb184fa5bf31faa0cc381d3e84180"
+          }
+        },
+        {
+          "client_id": "537824560819-e7jpkfc040slekhov3ou9h6mqiadc39g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDip0SILc1wKFiSLOxXJ4uVtWNeD6i0CdA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537824560819-e7jpkfc040slekhov3ou9h6mqiadc39g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-9378948893318143~5844707837"
+    }
+  ],
+  "configuration_version": "1"
+}
